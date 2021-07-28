@@ -1,0 +1,23 @@
+{
+  "name": "lambda-contact",
+  "version": "1.0.0",
+  "description": "Lambda contact to send emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clemenshemmerling/lambda-contact.git"
+  },
+  "author": "Clemens Hemmerling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Clemenshemmerling/lambda-contact/issues"
+  },
+  "homepage": "https://github.com/Clemenshemmerling/lambda-contact#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "nodemailer": "^6.5.0"
+  }
+}
